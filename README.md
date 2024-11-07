@@ -1,2 +1,2 @@
 # web_page_code
-This is my web application for web page code.
+This is a little Html code I wrote as blog.
